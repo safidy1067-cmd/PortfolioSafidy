@@ -223,7 +223,7 @@ header .logo a span {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    filter: grayscale(100%) blur(3px);
+    /* filter: grayscale(100%) blur(3px); */
     z-index: 0;
 }
 
@@ -2226,3 +2226,4 @@ footer .footer-bottom p span:hover::after {
 .fa-2x {
     font-size: 2.5rem;
 }
+
